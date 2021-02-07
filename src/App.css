@@ -102,6 +102,10 @@
     padding-top: 4px;
   }
   
+.ce-message-bubble {
+    overflow-wrap: anywhere;
+}
+
   .message-row {
     float: left;
     width: 100%;
